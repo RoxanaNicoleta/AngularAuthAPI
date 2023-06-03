@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zBxM4evMglVfm3m44ifLn5QZNC5x2cGzVsqcOxsTKiXmMtwxDNl+0KSCGlv+p8JezeMHEBYAz/R761BxD6mEhg==",
+  "dgSpecHash": "nCZXpuzMRhq2fjLiLl8o9LD1fDie4Z3FVJ5KQWdQs1hmc2nwV4cYGbreXzzoC5pN+ee0ARVjRIjf1J190a0CAA==",
   "success": true,
   "projectFilePath": "D:\\Licenta1\\Licenta1\\AngularAuthAPI\\AngularAuthAPI\\AngularAuthAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roxana\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Roxana\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Roxana\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\Roxana\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.16\\microsoft.aspnetcore.authentication.jwtbearer.6.0.16.nupkg.sha512",
+    "C:\\Users\\Roxana\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.11\\microsoft.aspnetcore.authentication.jwtbearer.6.0.11.nupkg.sha512",
     "C:\\Users\\Roxana\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Roxana\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Roxana\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
